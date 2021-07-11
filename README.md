@@ -1,4 +1,4 @@
-# mini-thesis-APIs
+# research paper APIs
 Research paper : Digital transformation of organisations : APIs and how to use them
 
 APIs are a flexible and lightweight approach that can be used by an enterprise to provide software
